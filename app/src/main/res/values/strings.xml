@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MergePaySDK_Demo</string>
+    <string name="ALI_APP">支付宝SDK</string>
+    <string name="ALI_WAP">支付宝WAP</string>
+    <string name="WX_APP">微信SDK</string>
+    <string name="WX_H5">微信H5</string>
+    <string name="bfb">百度钱包</string>
+    <string name="jdpay">京东支付</string>
+    <string name="unipay">银联支付</string>
+    <string name="qqpay">qq钱包</string>
+    <string name="scanner">扫描二维码</string>
+    <string name="prompt1">请输入支付金额</string>
+</resources>
